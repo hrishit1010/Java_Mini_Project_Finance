@@ -1,0 +1,21 @@
+# Ignore NetBeans build directory
+/build/
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore NetBeans cache files
+*.zip
+*.tar.gz
+
+# Ignore any other temporary or generated files
+.DS_Store
+.idea/
+*.iml
+
+# Ignore manifest file
+manifest.mf
+
+# Ignore build.xml file
+build.xml
+
